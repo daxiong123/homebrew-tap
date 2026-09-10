@@ -1,7 +1,5 @@
-# Homebrew Tap
+# Moved
 
-Install CloudStorage on Apple Silicon Macs running macOS 14 or newer:
+The CloudStorage cask now lives in the main repository:
 
-```sh
-brew install --cask daxiong123/tap/cloudstorage
-```
+https://github.com/daxiong123/object-storage-manager/tree/main/Casks
