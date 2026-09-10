@@ -7,8 +7,8 @@ cask "cloudstorage" do
   desc "Native object storage manager for Qiniu Kodo and Aliyun OSS"
   homepage "https://github.com/daxiong123/object-storage-manager"
 
-  depends_on macos: :sonoma
   depends_on arch: :arm64
+  depends_on macos: :sonoma
 
   app "CloudStorage.app"
 
