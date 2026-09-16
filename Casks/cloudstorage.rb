@@ -1,6 +1,6 @@
 cask "cloudstorage" do
-  version "0.2.0"
-  sha256 "f0116f2e599d8344b57d92b54dc8597efdae2f85c72208e2a0658b8c9f93c6a5"
+  version "0.3.0"
+  sha256 "ffd7232410334ff285f1ba6d7a016eef03e1cb4584ae08e4fcd72e7d480d059c"
 
   url "https://github.com/daxiong123/object-storage-manager/releases/download/v#{version}/CloudStorage-v#{version}-macos-arm64.zip"
   name "CloudStorage"
